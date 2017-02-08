@@ -4,7 +4,7 @@ This is a python program that detects faces using a trained classifier (offered 
 
 #How to use it
 
-To test it run :
+To test it , put an image in the same directory as this program and run :
 
 ```
 python face-detection.py yourface.jpg
