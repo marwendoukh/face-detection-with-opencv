@@ -2,7 +2,7 @@
 
 This is a python program that detects faces using a trained classifier (offered by openCV) and draw a red rectangle around it.
 
-#How to use it
+# How to use it
 
 To test it , put an image in the same directory as this program and run :
 
